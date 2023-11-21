@@ -1,1 +1,1 @@
-# PyG Sphinx Theme
+# Blades Sphinx Theme
