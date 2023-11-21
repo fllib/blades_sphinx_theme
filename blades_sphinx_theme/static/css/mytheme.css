@@ -168,7 +168,7 @@ html.writer-html5 .rst-content table.docutils th {
 }
 
 /* Code */
-div.highlight,
+/* div.highlight,
 .rst-content code.xref {
   border: none;
   background: rgba(27,31,35,.05);
@@ -179,8 +179,8 @@ div.highlight,
 }
 div.highlight {
   background: linear-gradient(to bottom right, rgb(242,242,242), rgb(236,236,236));
-}
-div.highlight div.mac-header {
+} */
+/* div.highlight div.mac-header {
   display: flex;
   position: relative;
   padding: 9px 0 9px 12px;
@@ -192,7 +192,7 @@ div.highlight div.mac-header span.dot {
   border-radius: 50%;
   background: rgba(0,0,0,0.1);
   margin: 0 4px 0 0;
-}
+} */
 /* div.highlight:hover div.mac-header span.dot.red {
   background: rgb(255,86,80);
 }
@@ -211,7 +211,7 @@ div.highlight:hover div.mac-header span.dot.green {
   cursor: pointer;
   color: rgba(0,0,0,0.1);
 } */
-div.highlight div.mac-header span.copy:hover {
+/* div.highlight div.mac-header span.copy:hover {
   color: rgba(0,0,0,0.5);
 }
 div.highlight div.mac-header span.copy:active {
@@ -219,7 +219,7 @@ div.highlight div.mac-header span.copy:active {
 }
 .rst-content code.xref {
   padding: .2em .4em;
-}
+} */
 .rst-content pre.literal-block,
 .rst-content div[class^="highlight"] {
   border: none;
