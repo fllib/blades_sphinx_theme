@@ -9,7 +9,6 @@ scripts/data
 *.idea
 *data_batch_*
 *.meta
-*.html
 *.whl
 *.egg
 *.pkl
