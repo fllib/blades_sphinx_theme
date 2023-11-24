@@ -35,6 +35,7 @@ setup(
     package_data={
         'blades_sphinx_theme': [
             'theme.conf',
+            "*.html",
             *package_files('blades_sphinx_theme/static',
                            ['css', 'js', 'png', 'svg']),
         ]
