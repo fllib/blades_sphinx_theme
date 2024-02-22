@@ -380,6 +380,11 @@ span.inline-logo.blades {
   background-image: url(../img/blades_logo.png);
   background-size: auto 80%;
 }
+span.inline-logo.fedlib {
+  /*padding-left: 39px;*/
+  background-image: url(../img/fedlib_logo.png);
+  background-size: auto 80%;
+}
 span.inline-logo.github {
   background-image: url(../img/github_logo.svg);
 }
