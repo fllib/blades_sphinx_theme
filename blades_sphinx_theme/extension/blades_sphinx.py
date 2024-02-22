@@ -136,6 +136,7 @@ def setup(app):
     # app.add_directive('slack_button', SlackButton)
 
     app.add_role('blades', logo_role)
+    app.add_role('fedlib', logo_role)
     app.add_role('pyg', logo_role)
     app.add_role('pyf', logo_role)
     app.add_role('python', logo_role)
